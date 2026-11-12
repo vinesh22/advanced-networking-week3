@@ -1,0 +1,76 @@
+
+{
+  "student-host:host": {
+    "hostname": "REDACTED-PC",
+    "os": "windows",
+    "collected-at": "2026-11-13",
+    "interface": [
+      {
+        "name": "Local Area Connection* 10",
+        "type": "virtual",
+        "oper-status": "up"
+      },
+      {
+        "name": "Local Area Connection* 5",
+        "type": "virtual",
+        "oper-status": "down"
+      },
+      {
+        "name": "Local Area Connection* 7",
+        "type": "virtual",
+        "oper-status": "down"
+      },
+      {
+        "name": "Wi-Fi",
+        "type": "wifi",
+        "oper-status": "up",
+        "mac": "74:12:b3:xx:xx:xx",
+        "mtu": 1500
+      },
+      {
+        "name": "Local Area Connection* 6",
+        "type": "virtual",
+        "oper-status": "down"
+      },
+      {
+        "name": "Local Area Connection* 1",
+        "type": "wifi",
+        "oper-status": "down",
+        "mac": "76:12:b3:xx:xx:xx",
+        "mtu": 1500
+      },
+      {
+        "name": "Local Area Connection* 2",
+        "type": "wifi",
+        "oper-status": "down",
+        "mac": "86:12:b3:xx:xx:xx",
+        "mtu": 1500
+      },
+      {
+        "name": "Local Area Connection* 4",
+        "type": "virtual",
+        "oper-status": "down"
+      },
+      {
+        "name": "Local Area Connection* 8",
+        "type": "virtual",
+        "oper-status": "up"
+      },
+      {
+        "name": "Local Area Connection* 9",
+        "type": "virtual",
+        "oper-status": "up"
+      },
+      {
+        "name": "Local Area Connection* 3",
+        "type": "virtual",
+        "oper-status": "down"
+      }
+    ],
+    "default-gateway": "192.168.x.x",
+    "dns-server": [
+      "192.168.x.x",
+      "REDACTED"
+    ]
+  }
+}

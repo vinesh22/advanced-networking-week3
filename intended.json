@@ -1,0 +1,18 @@
+
+{
+  "student-host:host": {
+    "os": "windows",
+    "default-gateway": "192.168.x.x",
+    "dns-server": [
+      "192.168.x.x"
+    ],
+    "interface": [
+      {
+        "name": "Wi-Fi",
+        "type": "wifi",
+        "oper-status": "up",
+        "mtu": 1500
+      }
+    ]
+  }
+}
